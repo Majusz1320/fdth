@@ -4,7 +4,7 @@ source("functions.R")
 
 ui <- fluidPage(
   titlePanel("NGS of Streptomyces"),
-  sidebarLayout(
+  sidebarLayout( 
     sidebarPanel( 
       fileInput("sekwencja", "Choose fasta file.", multiple = FALSE, accept = '.fasta'),
       textInput('sekwencja_wpisywana', "Or paste in sequence.", value = "ACTGACT"),
