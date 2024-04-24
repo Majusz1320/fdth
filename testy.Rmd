@@ -10,6 +10,14 @@ ggplot(przyklad_frame, aes(xmin = start, xmax = end, y = molecule, fill = gene))
   scale_fill_brewer(palette = "Set3")
 
 ```
+```{r}
+library(gggenes)
+
+asdfg <- data.frame(example_genes)
+
+asdfghg <- data.frame(data)
+```
+
 
 ```{r}
 przyklad_frame <- data.frame(przyklad)

@@ -61,7 +61,9 @@ server <- function(input, output) {
   })
   
   plotInput <- reactive({
-    p <- geneplot_funtion
+    wgrany_plik <- uploaded_file()
+    p <- ggplot(wgrany_plik, aes(xmin = start, xmax = end, y = strand, fill = gene)) +
+      geom_gene_arrow()
     print(p)
   })
   
