@@ -1,0 +1,350 @@
+"start" "end" "FDR" "direction" "best.pos" "rodzaj"
+"1" 21667 21896 6.13027809584522e-05 "up" 21862 "Enriched in TopA depleted strain"
+"2" 77005 77188 0.00214395068855839 "up" 77062 "Enriched in TopA depleted strain"
+"3" 81398 81581 0.00133343370377291 "up" 81432 "Enriched in TopA depleted strain"
+"4" 329177 329291 0.0151665372828673 "up" 329257 "Enriched in TopA depleted strain"
+"5" 330212 330303 0.0352842578270904 "up" 330246 "Enriched in TopA depleted strain"
+"6" 609156 609339 0.0028513424098173 "up" 609259 "Enriched in TopA depleted strain"
+"7" 756379 756447 0.00920439274215364 "up" 756413 "Enriched in TopA depleted strain"
+"8" 886214 886420 0.0124085058830285 "up" 886363 "Enriched in TopA depleted strain"
+"9" 931409 931638 0.0271116208279968 "up" 931443 "Enriched in TopA depleted strain"
+"10" 965817 965885 0.000141316616741156 "up" 965851 "Enriched in TopA depleted strain"
+"11" 1104576 1104782 0.00337227630887851 "up" 1104633 "Enriched in TopA depleted strain"
+"12" 1267439 1267622 0.0141593600168511 "up" 1267473 "Enriched in TopA depleted strain"
+"13" 1333656 1333747 0.0440165674149156 "up" 1333690 "Enriched in TopA depleted strain"
+"14" 1570533 1570693 0.0352842578270904 "up" 1570567 "Enriched in TopA depleted strain"
+"15" 1666512 1666902 0.0130384324450769 "up" 1666776 "Enriched in TopA depleted strain"
+"16" 1715755 1715892 6.13027809584522e-05 "up" 1715835 "Enriched in TopA depleted strain"
+"17" 1876111 1876363 0.0396539311251052 "up" 1876145 "Enriched in TopA depleted strain"
+"18" 1918891 1919304 0.0298768737210199 "up" 1919201 "Enriched in TopA depleted strain"
+"19" 1939062 1939199 0.0263917120699574 "up" 1939096 "Enriched in TopA depleted strain"
+"20" 1964822 1965350 0.000352593033801648 "up" 1964856 "Enriched in TopA depleted strain"
+"21" 2025266 2025403 0.0113496348218788 "up" 2025369 "Enriched in TopA depleted strain"
+"22" 2191234 2191348 0.0153056583090147 "up" 2191314 "Enriched in TopA depleted strain"
+"23" 2262971 2263269 0.0218664857510898 "up" 2263212 "Enriched in TopA depleted strain"
+"24" 2904487 2904762 0.0125181962945986 "up" 2904728 "Enriched in TopA depleted strain"
+"25" 3061899 3062197 0.0404631467297608 "up" 3062140 "Enriched in TopA depleted strain"
+"26" 3234422 3234743 0.00923933533241673 "up" 3234709 "Enriched in TopA depleted strain"
+"27" 3236446 3236583 0.0345485543271144 "up" 3236480 "Enriched in TopA depleted strain"
+"28" 3302042 3302156 0.032597075883575 "up" 3302076 "Enriched in TopA depleted strain"
+"29" 3483190 3483465 0.00650806522781048 "up" 3483408 "Enriched in TopA depleted strain"
+"30" 3496691 3496920 0.0456340753272747 "up" 3496725 "Enriched in TopA depleted strain"
+"31" 3685038 3685290 0.0141593600168511 "up" 3685256 "Enriched in TopA depleted strain"
+"32" 3687798 3688211 0.0151665372828673 "up" 3688154 "Enriched in TopA depleted strain"
+"33" 3826097 3826395 0.00411163541047821 "up" 3826154 "Enriched in TopA depleted strain"
+"34" 3828834 3829017 0.00044172970438239 "up" 3828983 "Enriched in TopA depleted strain"
+"35" 3830628 3830834 0.000253554730343505 "up" 3830662 "Enriched in TopA depleted strain"
+"36" 3856986 3857169 0.0118032025962461 "up" 3857020 "Enriched in TopA depleted strain"
+"37" 3908161 3908367 0.0225211134027684 "up" 3908195 "Enriched in TopA depleted strain"
+"38" 4374049 4374278 0.0150053652130791 "up" 4374244 "Enriched in TopA depleted strain"
+"39" 4387780 4388124 0.00267830845966913 "up" 4387814 "Enriched in TopA depleted strain"
+"40" 4452180 4452386 0.0209944331885939 "up" 4452260 "Enriched in TopA depleted strain"
+"41" 4460989 4461149 0.0173171731651299 "up" 4461115 "Enriched in TopA depleted strain"
+"42" 4530012 4530287 0.0494867221442355 "up" 4530115 "Enriched in TopA depleted strain"
+"43" 4532174 4532541 0.00385109285226589 "up" 4532277 "Enriched in TopA depleted strain"
+"44" 4535808 4536083 0.024391072786397 "up" 4535980 "Enriched in TopA depleted strain"
+"45" 4593469 4593767 0.00198281474645386 "up" 4593572 "Enriched in TopA depleted strain"
+"46" 4660238 4660329 0.0273236909623983 "up" 4660272 "Enriched in TopA depleted strain"
+"47" 4697958 4698233 0.0258582790042903 "up" 4698176 "Enriched in TopA depleted strain"
+"48" 4739450 4739725 0.00106686152786644 "up" 4739668 "Enriched in TopA depleted strain"
+"49" 4792143 4792510 0.0209944331885939 "up" 4792177 "Enriched in TopA depleted strain"
+"50" 4862431 4862913 0.000390256162963041 "up" 4862557 "Enriched in TopA depleted strain"
+"51" 5016324 5016461 0.00337227630887851 "up" 5016358 "Enriched in TopA depleted strain"
+"52" 5016853 5016990 0.00290248488338159 "up" 5016956 "Enriched in TopA depleted strain"
+"53" 5047121 5047212 0.00411232316904727 "up" 5047178 "Enriched in TopA depleted strain"
+"54" 5171298 5171504 0.000450818046563592 "up" 5171470 "Enriched in TopA depleted strain"
+"55" 5191055 5191468 0.0222093357851608 "up" 5191089 "Enriched in TopA depleted strain"
+"56" 5267392 5267506 0.00724442701111822 "up" 5267472 "Enriched in TopA depleted strain"
+"57" 5329262 5329445 0.00213436291657179 "up" 5329388 "Enriched in TopA depleted strain"
+"58" 5357023 5357298 0.000352593033801648 "up" 5357264 "Enriched in TopA depleted strain"
+"59" 5595326 5595463 0.00791933451383039 "up" 5595429 "Enriched in TopA depleted strain"
+"60" 5669846 5670075 0.00724442701111822 "up" 5670041 "Enriched in TopA depleted strain"
+"61" 5726978 5727046 0.000956725350696181 "up" 5727012 "Enriched in TopA depleted strain"
+"62" 5761616 5761891 0.00368211419734924 "up" 5761673 "Enriched in TopA depleted strain"
+"63" 5771874 5771942 0.0491580896621737 "up" 5771908 "Enriched in TopA depleted strain"
+"64" 5797703 5797817 0.00043853227049003 "up" 5797737 "Enriched in TopA depleted strain"
+"65" 5826016 5826130 0.0015809976534854 "up" 5826050 "Enriched in TopA depleted strain"
+"66" 5849223 5849314 0.0339623219534355 "up" 5849257 "Enriched in TopA depleted strain"
+"67" 5875236 5875373 0.000450818046563592 "up" 5875270 "Enriched in TopA depleted strain"
+"68" 5920316 5920407 0.0131681464376273 "up" 5920350 "Enriched in TopA depleted strain"
+"69" 5922248 5922408 0.000620519901838828 "up" 5922282 "Enriched in TopA depleted strain"
+"70" 6028600 6028691 0.00603454381496492 "up" 6028657 "Enriched in TopA depleted strain"
+"71" 6062065 6062225 0.00337227630887851 "up" 6062191 "Enriched in TopA depleted strain"
+"72" 6078096 6078164 0.0136752441280119 "up" 6078130 "Enriched in TopA depleted strain"
+"73" 6132468 6132582 0.000115007667488912 "up" 6132502 "Enriched in TopA depleted strain"
+"74" 6139621 6139919 0.00211242038130165 "up" 6139862 "Enriched in TopA depleted strain"
+"75" 6151236 6151557 0.00100213922913415 "up" 6151408 "Enriched in TopA depleted strain"
+"76" 6160137 6160251 0.0276132040522233 "up" 6160171 "Enriched in TopA depleted strain"
+"77" 6272331 6272675 0.0170190546372479 "up" 6272411 "Enriched in TopA depleted strain"
+"78" 6273366 6273710 0.0103504482783984 "up" 6273423 "Enriched in TopA depleted strain"
+"79" 6275137 6275297 0.00665410805567137 "up" 6275240 "Enriched in TopA depleted strain"
+"80" 6366102 6366193 0.010107898601545 "up" 6366159 "Enriched in TopA depleted strain"
+"81" 6443980 6444232 0.000352593033801648 "up" 6444129 "Enriched in TopA depleted strain"
+"82" 6445820 6445957 0.0220672057268391 "up" 6445854 "Enriched in TopA depleted strain"
+"83" 6533243 6533472 0.0141593600168511 "up" 6533323 "Enriched in TopA depleted strain"
+"84" 6541178 6541292 0.00393669354950452 "up" 6541258 "Enriched in TopA depleted strain"
+"85" 6599989 6600080 0.045796339994195 "up" 6600023 "Enriched in TopA depleted strain"
+"86" 6628670 6628876 0.0408618470770617 "up" 6628842 "Enriched in TopA depleted strain"
+"87" 6671059 6671242 0.0253966857053179 "up" 6671116 "Enriched in TopA depleted strain"
+"88" 6725362 6725453 0.00920439274215364 "up" 6725419 "Enriched in TopA depleted strain"
+"89" 6883556 6883854 0.011891232093323 "up" 6883636 "Enriched in TopA depleted strain"
+"90" 6894113 6894181 0.000180886778475369 "up" 6894147 "Enriched in TopA depleted strain"
+"91" 6894596 6894756 0.00318440367683909 "up" 6894699 "Enriched in TopA depleted strain"
+"92" 6896528 6897263 0.000450818046563592 "up" 6897068 "Enriched in TopA depleted strain"
+"93" 6898851 6899103 0.00386510829011632 "up" 6898931 "Enriched in TopA depleted strain"
+"94" 7057275 7057504 1.03100179371918e-05 "up" 7057424 "Enriched in TopA depleted strain"
+"95" 7059092 7059275 0.00044172970438239 "up" 7059126 "Enriched in TopA depleted strain"
+"96" 7065141 7065462 0.00941803229023714 "up" 7065428 "Enriched in TopA depleted strain"
+"97" 7068269 7068475 0.00920439274215364 "up" 7068303 "Enriched in TopA depleted strain"
+"98" 7200174 7200357 0.0191781214666634 "up" 7200323 "Enriched in TopA depleted strain"
+"99" 7481096 7481279 0.0118032025962461 "up" 7481176 "Enriched in TopA depleted strain"
+"100" 7675446 7675606 0.023105152821566 "up" 7675480 "Enriched in TopA depleted strain"
+"101" 7676573 7676825 0.0130384324450769 "up" 7676676 "Enriched in TopA depleted strain"
+"102" 7740490 7740581 0.0125562219426798 "up" 7740524 "Enriched in TopA depleted strain"
+"103" 7812273 7812341 0.000190259788733739 "up" 7812307 "Enriched in TopA depleted strain"
+"104" 7946340 7946408 6.13027809584522e-05 "up" 7946374 "Enriched in TopA depleted strain"
+"105" 7948019 7948087 8.63456770691079e-05 "up" 7948053 "Enriched in TopA depleted strain"
+"106" 8122612 8122818 0.0165367226787501 "up" 8122715 "Enriched in TopA depleted strain"
+"107" 8194763 8195015 0.0276132040522233 "up" 8194981 "Enriched in TopA depleted strain"
+"108" 8589167 8589258 0.0208191478689104 "up" 8589201 "Enriched in TopA depleted strain"
+"109" 8608464 8608900 0.0118065470301225 "up" 8608613 "Enriched in TopA depleted strain"
+"110" 116335 116449 0.0196301572240267 "down" 116369 "Enriched in wild
+type TopA level"
+"111" 403283 403420 0.00830075867464323 "down" 403386 "Enriched in wild
+type TopA level"
+"112" 659664 659962 0.0141593600168511 "down" 659882 "Enriched in wild
+type TopA level"
+"113" 709344 709527 0.0428035481202301 "down" 709493 "Enriched in wild
+type TopA level"
+"114" 715922 716151 0.0185133004325588 "down" 716094 "Enriched in wild
+type TopA level"
+"115" 751963 752169 0.0135347746552324 "down" 751997 "Enriched in wild
+type TopA level"
+"116" 1072997 1073157 0.0107322534479768 "down" 1073031 "Enriched in wild
+type TopA level"
+"117" 1174519 1174587 0.031884601709505 "down" 1174553 "Enriched in wild
+type TopA level"
+"118" 1571867 1572096 0.0194179019490848 "down" 1572062 "Enriched in wild
+type TopA level"
+"119" 1718308 1718491 0.0349628124459606 "down" 1718457 "Enriched in wild
+type TopA level"
+"120" 1727439 1727507 0.0113496348218788 "down" 1727473 "Enriched in wild
+type TopA level"
+"121" 2124718 2124809 0.0108955769115813 "down" 2124752 "Enriched in wild
+type TopA level"
+"122" 2178860 2179181 0.032597075883575 "down" 2179147 "Enriched in wild
+type TopA level"
+"123" 2257658 2257795 0.00607807931104616 "down" 2257738 "Enriched in wild
+type TopA level"
+"124" 2264305 2264419 0.0141593600168511 "down" 2264339 "Enriched in wild
+type TopA level"
+"125" 2433447 2433538 0.0113494717627267 "down" 2433504 "Enriched in wild
+type TopA level"
+"126" 2616987 2617285 0.00483733454157942 "down" 2617067 "Enriched in wild
+type TopA level"
+"127" 2695348 2695646 0.000278108951172442 "down" 2695451 "Enriched in wild
+type TopA level"
+"128" 2745120 2745257 0.0196301572240267 "down" 2745223 "Enriched in wild
+type TopA level"
+"129" 2901681 2901910 0.00941803229023714 "down" 2901715 "Enriched in wild
+type TopA level"
+"130" 2906327 2906579 0.0271116208279968 "down" 2906545 "Enriched in wild
+type TopA level"
+"131" 2910858 2910995 0.00044172970438239 "down" 2910961 "Enriched in wild
+type TopA level"
+"132" 2954305 2954465 0.00052383954298336 "down" 2954431 "Enriched in wild
+type TopA level"
+"133" 2959618 2959709 0.00147012504180426 "down" 2959652 "Enriched in wild
+type TopA level"
+"134" 3006653 3006813 0.00393669354950452 "down" 3006687 "Enriched in wild
+type TopA level"
+"135" 3112867 3113073 0.0191781214666634 "down" 3113039 "Enriched in wild
+type TopA level"
+"136" 3255191 3255420 0.000253554730343505 "down" 3255317 "Enriched in wild
+type TopA level"
+"137" 3296200 3296590 0.00920439274215364 "down" 3296372 "Enriched in wild
+type TopA level"
+"138" 3547797 3548095 0.00133343370377291 "down" 3548061 "Enriched in wild
+type TopA level"
+"139" 3593038 3593267 0.000904620271852485 "down" 3593233 "Enriched in wild
+type TopA level"
+"140" 3594763 3595038 0.0220672057268391 "down" 3595004 "Enriched in wild
+type TopA level"
+"141" 3631402 3631631 0.00044172970438239 "down" 3631551 "Enriched in wild
+type TopA level"
+"142" 3746977 3747229 0.0478853938064514 "down" 3747195 "Enriched in wild
+type TopA level"
+"143" 3759190 3759350 0.0128835734486397 "down" 3759316 "Enriched in wild
+type TopA level"
+"144" 3912830 3912990 0.00272111025818808 "down" 3912864 "Enriched in wild
+type TopA level"
+"145" 3929367 3929458 0.00483733454157942 "down" 3929401 "Enriched in wild
+type TopA level"
+"146" 4159804 4160033 0.0102284018108756 "down" 4159838 "Enriched in wild
+type TopA level"
+"147" 4164473 4164725 0.0276132040522233 "down" 4164507 "Enriched in wild
+type TopA level"
+"148" 4678109 4678315 0.000506236676330457 "down" 4678143 "Enriched in wild
+type TopA level"
+"149" 4704214 4704282 0.0209944331885939 "down" 4704248 "Enriched in wild
+type TopA level"
+"150" 4819214 4819558 0.0100501146376345 "down" 4819524 "Enriched in wild
+type TopA level"
+"151" 5193217 5193400 0.00536978946975139 "down" 5193251 "Enriched in wild
+type TopA level"
+"152" 5292416 5292576 0.0208251416584276 "down" 5292542 "Enriched in wild
+type TopA level"
+"153" 5305365 5305640 0.0118065470301225 "down" 5305468 "Enriched in wild
+type TopA level"
+"154" 5536607 5536905 0.0276132040522233 "down" 5536871 "Enriched in wild
+type TopA level"
+"155" 6529908 6530229 0.0438767891154812 "down" 6530195 "Enriched in wild
+type TopA level"
+"156" 6600380 6600471 0.00198281474645386 "down" 6600437 "Enriched in wild
+type TopA level"
+"157" 6761886 6761954 0.0141593600168511 "down" 6761920 "Enriched in wild
+type TopA level"
+"158" 6795535 6795764 0.00986641243167841 "down" 6795730 "Enriched in wild
+type TopA level"
+"159" 6798134 6798271 0.0200235048530594 "down" 6798214 "Enriched in wild
+type TopA level"
+"160" 6801262 6801330 0.00551167074858051 "down" 6801296 "Enriched in wild
+type TopA level"
+"161" 6904325 6904600 0.0208251416584276 "down" 6904543 "Enriched in wild
+type TopA level"
+"162" 6909799 6909913 0.0165367226787501 "down" 6909879 "Enriched in wild
+type TopA level"
+"163" 6911156 6911293 0.0330317029032565 "down" 6911259 "Enriched in wild
+type TopA level"
+"164" 7147021 7147158 0.0483582315163344 "down" 7147124 "Enriched in wild
+type TopA level"
+"165" 7212640 7212823 0.0315293492968372 "down" 7212720 "Enriched in wild
+type TopA level"
+"166" 7388406 7388566 0.000956725350696181 "down" 7388463 "Enriched in wild
+type TopA level"
+"167" 7762662 7762730 0.0483582315163344 "down" 7762696 "Enriched in wild
+type TopA level"
+"168" 7779567 7779773 0.0483582315163344 "down" 7779739 "Enriched in wild
+type TopA level"
+"169" 8039421 8039512 0.02838239793474 "down" 8039455 "Enriched in wild
+type TopA level"
+"170" 2511808 2511922 0.0471001477200154 "up" 2511888 "Binding in TopA level
+depleted and restored"
+"171" 2814189 2814303 0.0386050238134694 "up" 2814269 "Binding in TopA level
+depleted and restored"
+"172" 3173127 3173402 0.0386050238134694 "up" 3173253 "Binding in TopA level
+depleted and restored"
+"173" 3274603 3274740 0.045981930892076 "up" 3274637 "Binding in TopA level
+depleted and restored"
+"174" 3414903 3415109 0.0487053738125648 "up" 3414983 "Binding in TopA level
+depleted and restored"
+"175" 3415593 3415845 0.0401363289919018 "up" 3415673 "Binding in TopA level
+depleted and restored"
+"176" 3450208 3450368 0.0401363289919018 "up" 3450242 "Binding in TopA level
+depleted and restored"
+"177" 3502947 3503130 0.0386050238134694 "up" 3503004 "Binding in TopA level
+depleted and restored"
+"178" 3522060 3522312 0.0386050238134694 "up" 3522209 "Binding in TopA level
+depleted and restored"
+"179" 3549154 3549245 0.0386050238134694 "up" 3549188 "Binding in TopA level
+depleted and restored"
+"180" 3574431 3574568 0.0386050238134694 "up" 3574465 "Binding in TopA level
+depleted and restored"
+"181" 3591773 3592025 0.0391361887297751 "up" 3591991 "Binding in TopA level
+depleted and restored"
+"182" 3632966 3633195 0.0471001477200154 "up" 3633115 "Binding in TopA level
+depleted and restored"
+"183" 3677632 3677746 0.0481056155899421 "up" 3677712 "Binding in TopA level
+depleted and restored"
+"184" 3700494 3700585 0.0386050238134694 "up" 3700551 "Binding in TopA level
+depleted and restored"
+"185" 3790884 3790952 0.0389571147745973 "up" 3790918 "Binding in TopA level
+depleted and restored"
+"186" 3793851 3794103 0.0401363289919018 "up" 3794000 "Binding in TopA level
+depleted and restored"
+"187" 3910990 3911058 0.0480707110548652 "up" 3911024 "Binding in TopA level
+depleted and restored"
+"188" 3979070 3979161 0.0480707110548652 "up" 3979104 "Binding in TopA level
+depleted and restored"
+"189" 4097957 4098048 0.0386050238134694 "up" 4098014 "Binding in TopA level
+depleted and restored"
+"190" 4109135 4109456 0.0386050238134694 "up" 4109422 "Binding in TopA level
+depleted and restored"
+"191" 4118864 4119185 0.0386050238134694 "up" 4118898 "Binding in TopA level
+depleted and restored"
+"192" 4122061 4122313 0.0444096354257674 "up" 4122256 "Binding in TopA level
+depleted and restored"
+"193" 4125626 4125878 0.0401363289919018 "up" 4125775 "Binding in TopA level
+depleted and restored"
+"194" 4128915 4129121 0.0386050238134694 "up" 4129041 "Binding in TopA level
+depleted and restored"
+"195" 4162817 4162931 0.0386050238134694 "up" 4162897 "Binding in TopA level
+depleted and restored"
+"196" 4204470 4204538 0.0386050238134694 "up" 4204504 "Binding in TopA level
+depleted and restored"
+"197" 4210749 4211024 0.0451013333733669 "up" 4210967 "Binding in TopA level
+depleted and restored"
+"198" 4369863 4369977 0.0480707110548652 "up" 4369920 "Binding in TopA level
+depleted and restored"
+"199" 4411999 4412297 0.0480707110548652 "up" 4412194 "Binding in TopA level
+depleted and restored"
+"200" 4413448 4413654 0.0389571147745973 "up" 4413528 "Binding in TopA level
+depleted and restored"
+"201" 4442014 4442220 0.0401363289919018 "up" 4442048 "Binding in TopA level
+depleted and restored"
+"202" 4522491 4522674 0.0484726825954278 "up" 4522548 "Binding in TopA level
+depleted and restored"
+"203" 4592296 4592502 0.0471001477200154 "up" 4592468 "Binding in TopA level
+depleted and restored"
+"204" 4614974 4615042 0.0389571147745973 "up" 4615008 "Binding in TopA level
+depleted and restored"
+"205" 4650348 4650508 0.0386050238134694 "up" 4650405 "Binding in TopA level
+depleted and restored"
+"206" 4673923 4674106 0.0386050238134694 "up" 4674072 "Binding in TopA level
+depleted and restored"
+"207" 4676821 4676981 0.0444096354257674 "up" 4676947 "Binding in TopA level
+depleted and restored"
+"208" 4741474 4741542 0.0386050238134694 "up" 4741508 "Binding in TopA level
+depleted and restored"
+"209" 4839891 4839982 0.0484225774387779 "up" 4839948 "Binding in TopA level
+depleted and restored"
+"210" 4860568 4860682 0.0389571147745973 "up" 4860602 "Binding in TopA level
+depleted and restored"
+"211" 5018279 5018347 0.0386050238134694 "up" 5018313 "Binding in TopA level
+depleted and restored"
+"212" 5157659 5157957 0.0471001477200154 "up" 5157785 "Binding in TopA level
+depleted and restored"
+"213" 5169481 5169641 0.0386050238134694 "up" 5169561 "Binding in TopA level
+depleted and restored"
+"214" 5196023 5196252 0.0386050238134694 "up" 5196126 "Binding in TopA level
+depleted and restored"
+"215" 5228660 5228843 0.0391361887297751 "up" 5228763 "Binding in TopA level
+depleted and restored"
+"216" 5238067 5238388 0.0386050238134694 "up" 5238193 "Binding in TopA level
+depleted and restored"
+"217" 5255432 5255661 0.0386050238134694 "up" 5255627 "Binding in TopA level
+depleted and restored"
+"218" 5294233 5294531 0.0391361887297751 "up" 5294313 "Binding in TopA level
+depleted and restored"
+"219" 5356747 5356815 0.0386050238134694 "up" 5356781 "Binding in TopA level
+depleted and restored"
+"220" 5403667 5403804 0.0386050238134694 "up" 5403701 "Binding in TopA level
+depleted and restored"
+"221" 5512020 5512088 0.0386050238134694 "up" 5512054 "Binding in TopA level
+depleted and restored"
+"222" 5538608 5538722 0.0480707110548652 "up" 5538665 "Binding in TopA level
+depleted and restored"
+"223" 5574603 5574878 0.0386050238134694 "up" 5574660 "Binding in TopA level
+depleted and restored"
+"224" 5590220 5590357 0.0480707110548652 "up" 5590323 "Binding in TopA level
+depleted and restored"
+"225" 5619154 5619314 0.0480707110548652 "up" 5619188 "Binding in TopA level
+depleted and restored"
+"226" 5637485 5637622 0.0386050238134694 "up" 5637519 "Binding in TopA level
+depleted and restored"
+"227" 5770402 5770608 0.0389571147745973 "up" 5770482 "Binding in TopA level
+depleted and restored"
+"228" 5771552 5771643 0.0471001477200154 "up" 5771609 "Binding in TopA level
+depleted and restored"
+"229" 6212094 6212162 0.0471001477200154 "up" 6212128 "Binding in TopA level
+depleted and restored"
