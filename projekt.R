@@ -3,6 +3,8 @@ library(ggplot2)
 source("functions.R") 
 library(gggenes)
 
+##########################UI
+
 ui <- fluidPage(
   titlePanel("NGS of Streptomyces"),
   sidebarLayout( 
@@ -11,7 +13,7 @@ ui <- fluidPage(
                              
     #pierwsza strona dla ładowanych własnych danych              
         tabPanel("firstpage",
-                 fileInput("file", label = h3("Upload gene set file")),
+                 fileInput("uploadedgeneset", label = h3("Upload gene set file"), multiple = FALSE, accept = '.txt'),
                  selectInput("select", label = h3("Or choose from database"), 
                              choices = list("Choice 1" = 1, "Choice 2" = 2, "Choice 3" = 3), 
                              selected = 1),
@@ -46,21 +48,28 @@ ui <- fluidPage(
     )
 )
 
-
+#####################################SERWER
 
 
 server <- function(input, output) {
-  wgranyplik <- reactive({
-    inFile <- input$sekwencja
+  uploaded_file <- reactive({
+    inFile <- input$uploadedgeneset
     if (is.null(inFile))
       return(NULL)
-    d <- seqinr::read.fasta(inFile$datapath)
+    d <- data.frame(inFile)
     return(d)
   })
   
   plotInput <- reactive({
     p <- geneplot_funtion
     print(p)
+  })
+  
+  
+  output$geneplot <- renderPlot({
+    if (is.null(input$uploadedgeneset))
+      return(NULL)
+    print(plotInput())
   })
 }
  
