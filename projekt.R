@@ -24,7 +24,7 @@ ui <- fluidPage(
                            ),
                   
                   tabPanel("Plot$GraphDownload",
-                           downloadButton('download_histogram', 'Download png plot'),
+                           downloadButton('download_plot', 'Download png plot'),
                            numericInput('width_hist', 'Plot width [cm]', 20, min = 5, max = 25),
                            numericInput('height_hist', 'Plot height [cm]', 14, min = 5, max = 25),
                            numericInput('res_hist', 'Resolution', 200, min = 100, max = 500)))),
@@ -56,13 +56,13 @@ server <- function(input, output) {
     inFile <- input$uploadedgeneset
     if (is.null(inFile))
       return(NULL)
-    d <- data.frame(inFile)
+    d <- read.csv(inFile, sep=" ")
     return(d)
   })
   
   plotInput <- reactive({
     wgrany_plik <- uploaded_file()
-    p <- ggplot(wgrany_plik, aes(xmin = start, xmax = end, y = strand, fill = gene)) +
+    p <- ggplot(wgrany_plik, aes(xmin = start, xmax = end, y = molecule, fill = gene)) +
       geom_gene_arrow()
     print(p)
   })
