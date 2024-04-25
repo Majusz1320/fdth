@@ -13,10 +13,8 @@ ui <- fluidPage(
                              
     #pierwsza strona dla ładowanych własnych danych              
         tabPanel("firstpage",
-                 fileInput("uploadedgeneset", label = h3("Upload gene set file"), multiple = FALSE, accept = '.txt'),
                  selectInput("select", label = h3("Or choose from database"), 
-                             choices = list("Choice 1" = 1, "Choice 2" = 2, "Choice 3" = 3), 
-                             selected = 1),
+                             choices = c("HupAedgeR", "HupAmacs")),
         tabsetPanel(type="tabs",
                   tabPanel("firstsubpage",
                            
@@ -52,28 +50,21 @@ ui <- fluidPage(
 
 
 server <- function(input, output) {
-  uploaded_file <- reactive({
-    inFile <- input$uploadedgeneset
-    if (is.null(inFile))
-      return(NULL)
-    d <- read.csv(inFile, sep=" ")
-    return(d)
-  })
-  
-  plotInput <- reactive({
-    wgrany_plik <- uploaded_file()
-    p <- ggplot(wgrany_plik, aes(xmin = start, xmax = end, y = molecule, fill = gene)) +
-      geom_gene_arrow()
-    print(p)
-  })
-  
-  
-  output$geneplot <- renderPlot({
-    if (is.null(input$uploadedgeneset))
-      return(NULL)
-    print(plotInput())
-  })
+plotInput <- reactive({
+  if (input$select == "HupAedgeR")
+  {
+    plot_data <- read.csv("datasets/data_hupA_chipseq_edgeR.txt", sep=" ") }
+    else{
+    plot_data <- read.csv("datasets/data_hupAS_chipseq_macs.txt", sep=" ")}
+  return(plot_data)
+    })
+
+output$geneplot <- renderPlot({
+  ggplot(plot_data, aes(xmin = start, xmax = end, y = rodzaj, fill = )) +
+    geom_gene_arrow()
+})
 }
+
  
 
 shinyApp(ui = ui, server = server)

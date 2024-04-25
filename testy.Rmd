@@ -23,3 +23,14 @@ asdfghg <- data.frame(data)
 przyklad_frame <- data.frame(przyklad)
 ```
 
+```{r}
+ggplot(dane, aes(xmin = 1000, xmax = 1100, y = rodzaj, fill = )) +
+    geom_gene_arrow()
+```
+```{r}
+plot_data <- read.csv("datasets/data_hupA_chipseq_edgeR.txt", sep=" ") 
+ggplot(plot_data, aes(xmin = start, xmax = end, y = rodzaj, fill = )) +
+    geom_gene_arrow()
+```
+
+
